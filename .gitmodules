@@ -1,0 +1,9 @@
+[submodule "MySQL-_-"]
+	path = MySQL-_-
+	url = https://github.com/zhangyihong55555/MySQL-_-.git
+[submodule "Just-Code"]
+	path = Just-Code
+	url = https://github.com/YaxeZhang/Just-Code.git
+[submodule "jvm"]
+	path = jvm
+	url = https://github.com/doocs/jvm.git
